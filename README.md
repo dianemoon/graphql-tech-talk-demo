@@ -1,1 +1,0 @@
-# graphql-tech-talk-demo
